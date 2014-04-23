@@ -52,7 +52,7 @@ Format `date | datetimestring | timestamp` to `YYYY-mm-dd` format and append the
 
 ### data-number="money, 2"
 
-Format number with `data-fixed` attribute (default 0), result is `0` if `model.attribute == false`, second value is optional for fixed length.
+Format number with `data-fixed` attribute (default 0), result is `0` if `model.attribute == false`, second value is optional for fixed digits after decimal.
 
 ### data-prepend
 
