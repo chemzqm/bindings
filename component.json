@@ -1,0 +1,22 @@
+{
+  "name": "bindings",
+  "description": "common bindings for reactive",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "chemzqm/ago": "*"
+  },
+  "development": {
+    "dependencies": {
+      "component/assert": "*",
+      "component/domify": "*",
+      "chemzqm/reactive": "*"
+    }
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "chemzqm/bindings"
+}
